@@ -1,0 +1,59 @@
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe.config
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.pdb
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csprojResolveAssemblyReference.cache
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddEmployeeUI.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddViewDesignationUI.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.EmployeeResignationUI.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.MainUI.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.PromotionUI.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Properties.Resources.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.ViewMonthlySalaryUI.resources
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.GenerateResource.Cache
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.exe
+G:\OOP Using ASP.Net Training BITM\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.pdb
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddEmployeeUI.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddViewDesignationUI.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.EmployeeResignationUI.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.MainUI.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.PromotionUI.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Properties.Resources.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.ViewMonthlySalaryUI.resources
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.GenerateResource.cache
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.exe
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.pdb
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe.config
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe
+D:\Shreya\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.pdb
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe.config
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.pdb
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddEmployeeUI.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddViewDesignationUI.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.EmployeeResignationUI.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.MainUI.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.PromotionUI.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Properties.Resources.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.ViewMonthlySalaryUI.resources
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.GenerateResource.cache
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.exe
+C:\Users\User\Desktop\My Project Work\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.pdb
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe.config
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.exe
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\bin\Debug\ProjectWork.pdb
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csprojAssemblyReference.cache
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddEmployeeUI.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.AddViewDesignationUI.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.EmployeeResignationUI.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.MainUI.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.PromotionUI.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.Properties.Resources.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.ViewMonthlySalaryUI.resources
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.GenerateResource.cache
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.csproj.CoreCompileInputs.cache
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.exe
+D:\CD_Work\Pendrive\BITM Class Video\Sreye apu project\ProjectWork\ProjectWork\ProjectWork\obj\Debug\ProjectWork.pdb

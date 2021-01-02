@@ -1,0 +1,1 @@
+This a software whic is use for a company keep their Daily Income and Expense into a software system
